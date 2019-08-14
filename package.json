@@ -1,0 +1,28 @@
+{
+  "name": "nuofe-weekly",
+  "version": "0.0.1",
+  "author": "zoeblow@gmail.com",
+  "description": "前端周刊，给前端同学准备的每周1小时阅读清单",
+  "keywords": [
+    "frontend",
+    "weekly"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nuofe/nuofe-weekly"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "10.16.x"
+  },
+  "scripts": {
+    "start": "gitbook serve",
+    "build": "gitbook build ./ ./docs"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "lodash": ">=4.17.13",
+    "cryptiles": ">=4.1.2",
+    "hoek": ">=4.2.1"
+  }
+}
