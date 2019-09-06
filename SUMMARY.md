@@ -3,6 +3,7 @@
 * [诺诺前端周刊](README.md)
 
 * [2019](2019/index.md)
+ * [第 4 期](2019/weekly-04.md)
  * [第 3 期](2019/weekly-03.md)
  * [第 2 期](2019/weekly-02.md)
  * [第 1 期](2019/weekly-01.md)
