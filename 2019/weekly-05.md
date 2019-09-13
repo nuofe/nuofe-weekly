@@ -6,6 +6,8 @@ Update:2019-9-13
 
 ![201904](../images/2019/201905.jpg)
 
+今天是中秋佳节，诺诺前端周刊，在此祝大家中秋节快乐，团团圆圆。
+
 ## 前端消息
 
 - [前端工程化实践总结 | QQ音乐商业化Web团队](https://mp.weixin.qq.com/s/INlxjk4DnBFZynmbUkYGJA)
