@@ -1,8 +1,17 @@
+<!--
+ * @Description: weekly 201910
+ * @Author: zoeblow
+ * @Email: wangfuyuan@nnuo.com
+ * @Date: 2019-10-18 14:08:53
+ * @LastEditors: zoeblow
+ * @LastEditTime: 2019-10-25 15:14:47
+ * @FilePath: \nuofe-weekly\2019\weekly-10.md
+ -->
 # 诺诺前端周刊：2019-10 期
 
 Add:2019-10-18
 
-Update:2019-10-18
+Update:2019-10-25
 
 ![201910](../images/2019/201910.jpg)
 
@@ -24,7 +33,7 @@ Update:2019-10-18
 
 - [如何衡量一个人的 JavaScript 水平？](https://mp.weixin.qq.com/s/9GK32KeKkc47Sw5oAPJkEw)
 
-  > 有名是个你不知道的 JS 难点。
+  > 又名是个你不知道的 JS 难点。
 
 - [JS 异常函数之-箭头函数](https://segmentfault.com/a/1190000020169304)
 
