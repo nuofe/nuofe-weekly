@@ -1,10 +1,10 @@
 <!--
- * @Description:
+ * @Description: 目录
  * @Author: zoeblow
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2019-08-14 14:06:51
  * @LastEditors: zoeblow
- * @LastEditTime: 2019-10-25 15:05:28
+ * @LastEditTime: 2019-11-01 16:35:26
  * @FilePath: \nuofe-weekly\SUMMARY.md
  -->
 
@@ -13,6 +13,7 @@
 - [诺诺前端周刊](README.md)
 
 - [2019](2019/index.md)
+- [第 12 期](2019/weekly-12.md)
 - [第 11 期](2019/weekly-11.md)
 - [第 10 期](2019/weekly-10.md)
 - [第 9 期](2019/weekly-09.md)

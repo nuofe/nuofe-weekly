@@ -4,7 +4,7 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2019-10-25 15:01:23
  * @LastEditors: zoeblow
- * @LastEditTime: 2019-10-25 15:41:48
+ * @LastEditTime: 2019-11-01 16:33:03
  * @FilePath: \nuofe-weekly\2019\weekly-11.md
  -->
 
@@ -36,11 +36,11 @@ Update:2019-10-25
 
   > 最初，JavaScript 只能在 Web 浏览器中运行，但是随着 Node 的出现，现在 JavaScript 也可以在服务端运行。在本文中，我们仅探讨一个问题：JavaScript 是如何工作的？
 
-* [JS 实现页面进入、返回定位到具体位置总结](https://mp.weixin.qq.com/s/cAYdW0WxbqoZKxT_Gejd9g)
+- [JS 实现页面进入、返回定位到具体位置总结](https://mp.weixin.qq.com/s/cAYdW0WxbqoZKxT_Gejd9g)
 
   > 其实浏览器也自带了返回的功能，也就是说，自带了返回定位的功能。正常的跳转，返回确实可以定位，但是有些特殊场景就不适用了。
 
-* [介绍 4 种用 JavaScript 将布尔值转换为整数数字的方法](https://mp.weixin.qq.com/s/JLpCbIiYCgB9ZHRihNI_-A)
+- [介绍 4 种用 JavaScript 将布尔值转换为整数数字的方法](https://mp.weixin.qq.com/s/JLpCbIiYCgB9ZHRihNI_-A)
 
   > 今天我们来介绍 4 种用 JavaScript 将布尔值转换为整数数字的方法。希望对你有所帮助。
 
