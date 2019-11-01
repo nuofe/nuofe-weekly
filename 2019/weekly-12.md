@@ -4,7 +4,7 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2019-11-01 16:34:04
  * @LastEditors: zoeblow
- * @LastEditTime: 2019-11-01 18:11:58
+ * @LastEditTime: 2019-11-01 18:15:50
  * @FilePath: \nuofe-weekly\2019\weekly-12.md
  -->
 
@@ -14,7 +14,7 @@ Add:2019-11-01
 
 Update:2019-11-01
 
-![201911](../images/2019/201912.jpg)
+![201912](../images/2019/201912.jpg)
 
 ## 前端消息
 
