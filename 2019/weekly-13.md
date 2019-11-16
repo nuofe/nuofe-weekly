@@ -4,11 +4,11 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2019-11-08 16:34:04
  * @LastEditors: zoeblow
- * @LastEditTime: 2019-11-08 17:34:55
- * @FilePath: \nuofe-weekly\2019\weekly-12.md
+ * @LastEditTime: 2019-11-16 15:04:53
+ * @FilePath: \nuofe-weekly\2019\weekly-13.md
  -->
 
-# 诺诺前端周刊：2019-12 期
+# 诺诺前端周刊：2019-13 期
 
 Add:2019-11-08
 
@@ -42,7 +42,7 @@ Update:2019-11-08
 
 - [蚂蚁金服@玉伯：我的前端成长之路](https://mp.weixin.qq.com/s/1-rXIRKsPIvpZc9dtm6MAw)
 
-  > 大佬的前端成长之路，助你在前端之路实现跃迁
+  > 大佬的前端成长之路，助你在前端之路实现跃迁。
 
 <!-- ## 业界新闻
 
