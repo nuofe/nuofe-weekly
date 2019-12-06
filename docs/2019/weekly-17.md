@@ -4,7 +4,7 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2019-12-06 15:47:30
  * @LastEditors: zoeblow
- * @LastEditTime: 2019-12-06 16:32:40
+ * @LastEditTime: 2019-12-06 16:38:05
  * @FilePath: \nuofe-weekly\2019\weekly-17.md
  -->
 
@@ -32,9 +32,9 @@ Update:2019-12-06
 
 ## 技术解析
 
-- [为什么 Vue3.0 不再使用 defineProperty 实现数据监听？](https://mp.weixin.qq.com/s/O8iL4o8oPpqTm4URRveOIA)
+- [如何提升低端设备的Web性能？试试自适应加载模式](https://mp.weixin.qq.com/s/Za9nOQrkQnh4GxgQ9Hz9Xg)
 
-  > Vue3.0 中，响应式数据部分弃用了 Object.defineProperty，使用 Proxy 来代替它。本文将主要通过以下三个方面来分析为什么 Vue 选择弃用 Object.defineProperty。
+  > 自适应加载不仅要根据屏幕大小做出响应，还要适应实际的设备硬件。
 
 - [JavaScript 复杂判断的更优雅写法](https://juejin.im/post/5bdfef86e51d453bf8051bf8)
 
