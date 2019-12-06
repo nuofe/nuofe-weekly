@@ -4,7 +4,7 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2019-11-29 17:06:20
  * @LastEditors: zoeblow
- * @LastEditTime: 2019-11-29 17:29:24
+ * @LastEditTime: 2019-12-06 16:28:42
  * @FilePath: \nuofe-weekly\2019\weekly-16.md
  -->
 
@@ -38,7 +38,7 @@ Update:2019-11-30
 
 - [什么时候不使用箭头函数](https://mp.weixin.qq.com/s/UQf0YBjZWiMFq0q-hezYiQ)
 
-  > 在这些场景中，你应该绕过箭头函数，转而使用良好的旧函数表达式或较新的简写语法。并且要注意缩短代码，因为这会影响代码的可读性。。
+  > 在这些场景中，你应该绕过箭头函数，转而使用良好的旧函数表达式或较新的简写语法。并且要注意缩短代码，因为这会影响代码的可读性。
 
 - [这一次，彻底弄懂 Promise 原理](https://mp.weixin.qq.com/s/2kz8Vg8zEwPVLy47WFHRuQ)
 
