@@ -4,7 +4,7 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2019-12-06 15:47:30
  * @LastEditors: zoeblow
- * @LastEditTime: 2019-12-06 16:38:05
+ * @LastEditTime: 2019-12-14 13:42:38
  * @FilePath: \nuofe-weekly\2019\weekly-17.md
  -->
 
@@ -38,7 +38,7 @@ Update:2019-12-06
 
 - [JavaScript 复杂判断的更优雅写法](https://juejin.im/post/5bdfef86e51d453bf8051bf8)
 
-  > ，随着逻辑复杂度的增加，代码中的 if/else/switch 会变得越来越臃肿，越来越看不懂，那么如何更优雅的写判断逻辑，本文带你试一下。
+  > 随着逻辑复杂度的增加，代码中的 if/else/switch 会变得越来越臃肿，越来越看不懂，那么如何更优雅的写判断逻辑，本文带你试一下。
 
 - [如何优雅处理前端异常？(可能是史上最全前端异常处理方案)](https://mp.weixin.qq.com/s/tuNMu9gpb237uSzdF7Eyww)
 
