@@ -24,7 +24,7 @@ Update:2019-12-21
 
 - [来自腾讯 CDC 团队的前端异常监控解决方案～](https://mp.weixin.qq.com/s/BHyhJJKqxToE_l3g3co1LQ)
 
-  > 最近自己也在看相关的文字，读到此文，以飨读者。
+  > 最近自己也在看相关的文章，读到此文发到周刊，以飨读者。
 
 - [javascript DOM 和 DOM 操作的四种基本方法](https://mp.weixin.qq.com/s/jEIK1hvRyfCEfe8DneuJ6w)
 
@@ -40,4 +40,4 @@ Update:2019-12-21
 
 - [优秀的程序员都喜欢拥抱新技术](https://mp.weixin.qq.com/s/mMcPs4qhuBSIStVTnr6i0A)
 
-  > 所谓新技术，并不一定是是馋鬼意思上的新出的技术，而是泛指团第没有使用过的技术。
+  > 所谓新技术，并不一定是常规意思上的新出的技术，而是泛指团第没有使用过的技术。
