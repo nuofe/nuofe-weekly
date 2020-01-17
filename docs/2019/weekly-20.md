@@ -4,7 +4,7 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2019-12-28 11:04:12
  * @LastEditors  : zoeblow
- * @LastEditTime : 2020-01-03 13:05:01
+ * @LastEditTime : 2020-01-17 16:07:25
  * @FilePath: \nuofe-weekly\2019\weekly-20.md
  -->
 
@@ -36,7 +36,7 @@ Update:2019-12-28
 
   > 开门见山，npm install 大概会经过上面的几个流程，本篇文章来讲一讲各个流程的实现细节、发展以及为何要这样实现。
 
-- [Web 视频播放前前后后](https://mp.weixin.qq.com/s/jEIK1hvRyfCEfe8DneuJ6w)
+- [Web 视频播放前前后后](https://mp.weixin.qq.com/s/bsla0FzDnM1iEm_ev3fMXw)
 
   > 2020 Flash就停止更新了，那视频播放该如何呢？这篇前前后后有点长，可以多注意下。
 
