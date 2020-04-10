@@ -13,7 +13,6 @@
   },
   "license": "MIT",
   "engines": {
-    "node": "10.16.x"
   },
   "scripts": {
     "start": "gitbook serve",
