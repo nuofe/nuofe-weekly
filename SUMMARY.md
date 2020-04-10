@@ -4,7 +4,7 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2019-08-14 14:06:51
  * @LastEditors: zoeblow
- * @LastEditTime: 2020-04-10 13:15:58
+ * @LastEditTime: 2020-04-10 15:23:44
  * @FilePath: \nuofe-weekly\SUMMARY.md
  -->
 
@@ -41,13 +41,13 @@
 - [第 12 期](2019/weekly-12.md)
 - [第 11 期](2019/weekly-11.md)
 - [第 10 期](2019/weekly-10.md)
-- [第 9 期](2019/weekly-09.md)
-- [第 8 期](2019/weekly-08.md)
-- [第 7 期](2019/weekly-07.md)
-- [第 6 期](2019/weekly-06.md)
-- [第 5 期](2019/weekly-05.md)
-- [第 4 期](2019/weekly-04.md)
-- [第 3 期](2019/weekly-03.md)
-- [第 2 期](2019/weekly-02.md)
-- [第 1 期](2019/weekly-01.md)
-- [第 0 期](2019/weekly-00.md)
+- [第 09 期](2019/weekly-09.md)
+- [第 08 期](2019/weekly-08.md)
+- [第 07 期](2019/weekly-07.md)
+- [第 06 期](2019/weekly-06.md)
+- [第 05 期](2019/weekly-05.md)
+- [第 04 期](2019/weekly-04.md)
+- [第 03 期](2019/weekly-03.md)
+- [第 02 期](2019/weekly-02.md)
+- [第 01 期](2019/weekly-01.md)
+- [第 00 期](2019/weekly-00.md)
