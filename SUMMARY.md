@@ -3,8 +3,8 @@
  * @Author: zoeblow
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2019-08-14 14:06:51
- * @LastEditors: zoeblow
- * @LastEditTime: 2020-06-05 17:52:29
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2020-06-12 19:10:44
  * @FilePath: \nuofe-weekly\SUMMARY.md
  -->
 
@@ -13,6 +13,7 @@
 - [诺诺前端周刊](README.md)
 
 - 2020
+- [第 24 期](2020/weekly-24.md)
 - [第 23 期](2020/weekly-23.md)
 - [第 22 期](2020/weekly-22.md)
 - [第 21 期](2020/weekly-21.md)
