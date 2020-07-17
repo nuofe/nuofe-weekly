@@ -4,7 +4,7 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2019-08-14 14:06:51
  * @LastEditors: zoeblow
- * @LastEditTime: 2020-06-28 16:17:23
+ * @LastEditTime: 2020-07-17 16:35:56
  * @FilePath: \nuofe-weekly\SUMMARY.md
  -->
 
@@ -13,6 +13,7 @@
 - [诺诺前端周刊](README.md)
 
 - 2020
+- [第 29 期](2020/weekly-29.md)
 - [第 28 期](2020/weekly-28.md)
 - [第 27 期](2020/weekly-27.md)
 - [第 26 期](2020/weekly-26.md)
