@@ -4,8 +4,8 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2020-07-17 19:10:38
  * @LastEditors: zoeblow
- * @LastEditTime: 2020-09-18 15:32:56
- * @FilePath: \nuofe-weekly\2020\weekly-38.md
+ * @LastEditTime: 2020-09-18 15:36:24
+ * @FilePath: /nuofe-weekly/2020/weekly-38.md
  -->
 
 # 诺诺前端周刊：2020-38 期
@@ -32,7 +32,7 @@ Update:2020-09-18
 
 ## 技术解析
 
-- [0 个鲜为人知但很实用的 Web API](https://mp.weixin.qq.com/s/XzBbVoxDYjW28K_QDUkOBg)
+- [10 个鲜为人知但很实用的 Web API](https://mp.weixin.qq.com/s/XzBbVoxDYjW28K_QDUkOBg)
 
   > 介绍 10 个不那么流行的 Web API。不那么流行并不意味着它们没有用处。
 
