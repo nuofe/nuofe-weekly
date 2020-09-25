@@ -15,6 +15,7 @@
   "engines": {
   },
   "scripts": {
+    "dev": "gitbook serve",
     "start": "gitbook serve",
     "build": "gitbook build ./ ./docs"
   },
