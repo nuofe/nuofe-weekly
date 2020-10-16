@@ -4,15 +4,15 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2020-07-17 19:10:42
  * @LastEditors: zoeblow
- * @LastEditTime: 2020-10-16 16:31:08
- * @FilePath: \nuofe-weekly\2020\weekly-42.md
+ * @LastEditTime: 2020-10-16 16:37:19
+ * @FilePath: /nuofe-weekly/2020/weekly-42.md
  -->
 
 # 诺诺前端周刊：2020-42 期
 
-Add:2020-10-10
+Add:2020-10-16
 
-Update:2020-10-10
+Update:2020-10-16
 
 ![202042](../images/2020/202042.jpg)
 
