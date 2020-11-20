@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "gitbook-cli": "^2.3.2",
-    "lodash": ">=4.17.13",
+    "lodash": ">=4.17.19",
     "cryptiles": ">=4.1.2",
     "hoek": ">=4.2.1"
   }
